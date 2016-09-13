@@ -1,4 +1,4 @@
 # no-self-double
-deny to run multiple copies of self
+deny to run multiple copies of self or wait to other self to finish
 
-usage: . /full/path/to/no_self_double.sh
+usage: . /full/path/to/script.sh
